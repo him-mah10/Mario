@@ -1,6 +1,6 @@
 <p align="center"><h1 align="Center"> MARIO TERMINAL GAME </h1></p>
 
-<h4 align="center"> DEVELOPED BY:	__Himanshu Maheshwari__ </h4>
+<h4 align="center"> DEVELOPED BY:	Himanshu Maheshwari </h4>
 
 #### ABOUT THE GAME:
 The game is variant of classic mario game, developed as a part of SSAD Assignment.
@@ -38,7 +38,20 @@ __(For this to work you should have python 3.x installed in your pc.)__
 | Quit            |        q       |
 
 #### Screen Shots
-![Screen Shot 1](/Screen Shots/1.png)
-Format: ![Alt Text](url)
+<img src="./Screen Shots/1.png" alt="Screen Shot 1"></img>
+
+<img src="./Screen Shots/2.png" alt="Screen Shot 2"></img>
+
+<img src="./Screen Shots/3.png" alt="Screen Shot 3"></img>
+
+<img src="./Screen Shots/4.png" alt="Screen Shot 4"></img>
+
+<img src="./Screen Shots/5.png" alt="Screen Shot 5"></img>
+
+<img src="./Screen Shots/6.png" alt="Screen Shot 6"></img>
+
+<img src="./Screen Shots/7.png" alt="Screen Shot 7"></img>
+
+<img src="./Screen Shots/8.png" alt="Screen Shot 8"></img>
 
 __CHEERS!!!__
