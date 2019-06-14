@@ -1,9 +1,6 @@
 # MARIO TERMINAL GAME
 
-DEVELOPED BY:
-			Himanshu Maheshwari
-			20171033
-
+		DEVELOPED BY:	__Himanshu Maheshwari__
 ABOUT THE GAME:
 			The game is variant of classic mario game, developed as a part of SSAD Assignment.
 
