@@ -3,7 +3,7 @@
 <h4 align="center"> DEVELOPED BY:	Himanshu Maheshwari </h4>
 
 #### ABOUT THE GAME:
-The game is variant of classic mario game, developed as a part of SSAD Assignment.
+The game is variant of classic mario game.
 
 #### RUNNING THE GAME:
 To run the game enter the following command in the terminal, in the directory of the game python3 mario.py(Linux)(For windows just run it in python 3.x)
