@@ -3,7 +3,7 @@
 <h4 align="center"> DEVELOPED BY:	Himanshu Maheshwari </h4>
 
 #### ABOUT THE GAME:
-The game is variant of classic mario game.
+The game is variant of classic mario game that runs entirely on terminal. The game was built without any curse library and has follows OOPs principles.
 
 #### RUNNING THE GAME:
 To run the game enter the following command in the terminal, in the directory of the game python3 mario.py(Linux)(For windows just run it in python 3.x)
